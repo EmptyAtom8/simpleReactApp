@@ -6,10 +6,10 @@ export   class CustomerList extends Component{
     customersCount: 6,
     customerList: [
         {id:1,name:"tony", phone:"123-456", address:{city: "Shenyang "}, photo: "https://picsum.photos/id/1010/60"},
-        {id:2,name:"ton", phone:"133-456", address:{city: "Beijing "},photo: "https://picsum.photos/id/1010/60"},
-        {id:3,name:"ony", phone:"143-456", address:{city: "JiLin "},photo: "https://picsum.photos/id/1010/60"},
-        {id:4,name:"on", phone:null, address:{city: "Newcastle Upon Tyne "},photo: "https://picsum.photos/id/1010/60"},
-        {id:5,name:"ryan", phone:"163-456", address:{city: "Shenyang "},photo: "https://picsum.photos/id/1010/60"},
+        {id:2,name:"ton", phone:"133-456", address:{city: "Beijing "},photo: "https://picsum.photos/id/1020/90"},
+        {id:3,name:"ony", phone:"143-456", address:{city: "JiLin "},photo: "https://picsum.photos/id/1210/61"},
+        {id:4,name:"on", phone:null, address:{city: "Newcastle Upon Tyne "},photo: "https://picsum.photos/id/1090/60"},
+        {id:5,name:"ryan", phone:"163-456", address:{city: "Shenyang "},photo: "https://picsum.photos/id/1313/60"},
 
     ]
 };
