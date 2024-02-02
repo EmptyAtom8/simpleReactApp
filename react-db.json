@@ -1,0 +1,17 @@
+{
+    "products":[
+        {"id":1, "productName":"iPhone 12 Pro Max", "price": 1000, "quantity": 0},
+        {"id":2, "productName":"iPhone 11 Pro Max", "price": 690, "quantity": 0},
+        {"id":3, "productName":"iPhone 13 Pro Max", "price": 1200, "quantity": 0},
+        {"id":4, "productName":"iPhone 14 Pro Max", "price": 1300, "quantity": 0},
+        {"id":5, "productName":"iPhone 15 Pro Max", "price": 1400, "quantity": 0},
+        {"id":6, "productName":"iPhone 12 mini", "price": 909, "quantity": 0},
+        {"id":7, "productName":"iPhone 13 mini", "price": 890, "quantity": 0}
+    ],
+    "users":[
+        {"id": 1, "email": "abc@gmail.com", "password":"scott1232"},
+        {"id": 2, "email": "adc@gmail.com", "password":"scott1233"},
+        {"id": 3, "email": "acc@gmail.com", "password":"scott1235"},
+        {"id": 4, "email": "abzc@gmail.com", "password":"scott1230"}
+    ]
+}
